@@ -1,4 +1,7 @@
-# Notes from the edge of the work
+---
+layout: home
+title: Home
+---
 
 I’m Dario Hudon-Verrelli — a digital marketer, builder, writer, and solo operator based in Calgary, Alberta.
 
